@@ -1,0 +1,17 @@
+Pg3-f3
+Pc4-d4
+Pf3-e3
+Pd4-e4
+Pe3-d3
+Pc3xd3
+Pg4-f4
+Pe4xf4
+Pg5-f5
+Pf4-g4+
+Pg4-h3
+Gi4xh3
+Pd3-e3
+Pg2-f2
+Pe3-f3
+P*f4
+No winners
